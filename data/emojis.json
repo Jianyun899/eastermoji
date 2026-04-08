@@ -1,0 +1,16 @@
+[
+  { "id": 1, "emoji": "🐰", "name": "Easter Bunny", "keywords": ["bunny", "rabbit", "easter"], "category": "bunny" },
+  { "id": 2, "emoji": "🐇", "name": "Rabbit", "keywords": ["bunny", "rabbit"], "category": "bunny" },
+  { "id": 3, "emoji": "🐾", "name": "Paw Prints", "keywords": ["paw", "bunny"], "category": "bunny" },
+  { "id": 4, "emoji": "🥚", "name": "Easter Egg", "keywords": ["egg", "easter"], "category": "eggs" },
+  { "id": 5, "emoji": "🪺", "name": "Nest with Eggs", "keywords": ["nest", "egg"], "category": "eggs" },
+  { "id": 6, "emoji": "🎨", "name": "Painting Palette", "keywords": ["paint", "egg"], "category": "eggs" },
+  { "id": 7, "emoji": "🌸", "name": "Cherry Blossom", "keywords": ["flower", "spring"], "category": "flowers" },
+  { "id": 8, "emoji": "🌷", "name": "Tulip", "keywords": ["flower", "spring"], "category": "flowers" },
+  { "id": 9, "emoji": "🌼", "name": "Blossom", "keywords": ["flower", "spring"], "category": "flowers" },
+  { "id": 10, "emoji": "🐣", "name": "Hatching Chick", "keywords": ["chick", "easter"], "category": "chick" },
+  { "id": 11, "emoji": "🐥", "name": "Baby Chick", "keywords": ["chick", "easter"], "category": "chick" },
+  { "id": 12, "emoji": "✝️", "name": "Latin Cross", "keywords": ["cross", "easter"], "category": "symbols" },
+  { "id": 13, "emoji": "🕯️", "name": "Candle", "keywords": ["candle", "easter"], "category": "symbols" },
+  { "id": 14, "emoji": "🐰🥚🌸✨", "name": "Easter Magic", "keywords": ["easter", "bunny", "art"], "category": "art" }
+]
